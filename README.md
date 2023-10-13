@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cunbex
+- 👋 Hi, I’m Hamza Lagab
 - 👀 I’m interested in ( cyber / information ) security and web dev
 - 🌱 I’m currently learning basics of ( cyber / information ) security and bit of programming languages
 - 💞️ I’m looking to collaborate on open source web-dev projects...
