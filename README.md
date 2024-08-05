@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **NodeJS, Linux, MQTT**
 
-- 📫 How to reach me **hamzalagab.tech@gmail.com** or via discord: **f.b.i2834**
+- 📫 How to reach me **hamzalagab.tech@gmail.com** or via discord: **#f.b.i2834**
 
 - ⚡ Fun fact **The best way to learn is by writing tests**
 
