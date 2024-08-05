@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **hamzalagab.tech@gmail.com** or via discord: **#f.b.i2834**
 
-- ⚡ Fun fact **The best way to learn is by writing tests**
+- ⚡ Fun fact **The best way to learn a language is by writing unit tests !**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
