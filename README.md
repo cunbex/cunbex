@@ -68,6 +68,7 @@
 </div>
 <br>
 <hr>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cunbex&theme=tokyonight&hide_border=true&count_private=true" alt="cunbex" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cunbex&theme=tokyonight&show_icons=true&hide_border=true&locale=en&layout=compact&count_private=true" alt="cunbex's languages" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cunbex&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="cunbex" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cunbex&theme=tokyonight&hide_border=true&count_private=true" alt="cunbex" /></p>
+
